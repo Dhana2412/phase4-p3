@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+yLljb8LumWLliN8xV7ueGSCiZiR/r8T/ghRtSDpDE5134rhoOMgRuCqyaoW/pN4zq6xaUsZxzb/PM5+yfNFQ==",
+  "success": true,
+  "projectFilePath": "C:\\phase4 section7project\\P3P3-master\\BankApp\\BankApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
